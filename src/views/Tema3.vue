@@ -125,14 +125,129 @@
     #t_3_2.titulo-segundo(data-aos="fade-right")
       .h2 3.2.  Herramientas digitales
 
-    p(data-aos="fade") Hoy en día, la tecnología permea la cotidianidad, en el trabajo, hogar, comunidad, familia y en general, creando un vínculo en todas las formas de relacionarse con el entorno. Por ello, es impensable desarrollarse y convivir en sociedad sin la presencia y utilización de herramientas tecnológicas y digitales. En este caso, el uso adecuado de programas informáticos de diseño audiovisual, ayudan a adquirir y desarrollar las habilidades necesarias para poder expandir nuestra fuerza creativa e innovadora. Así pues, al hablar de los programas más representativos para hacer animación digital, en este caso se hace necesario hacer referencia a las aplicaciones de escritorio de 
+    p.mb-4(data-aos="fade") Hoy en día, la tecnología permea la cotidianidad, en el trabajo, hogar, comunidad, familia y en general, creando un vínculo en todas las formas de relacionarse con el entorno. Por ello, es impensable desarrollarse y convivir en sociedad sin la presencia y utilización de herramientas tecnológicas y digitales. En este caso, el uso adecuado de programas informáticos de diseño audiovisual, ayudan a adquirir y desarrollar las habilidades necesarias para poder expandir nuestra fuerza creativa e innovadora. Así pues, al hablar de los programas más representativos para hacer animación digital, en este caso se hace necesario hacer referencia a las aplicaciones de escritorio de 
       italic Adobe Creative Cloud y Autodesk. 
       | A continuación, se realiza un acercamiento a cada una de ellas:
 
+    TabsC.color-acento-contenido(data-aos="fade-down")
+      .py-3.py-md-4(titulo="Adobe After Effects ")
+        .row.justify-content-center
+          .col-md-11.mb-4.mb-md-0
+            h4 
+              italic Adobe After Effects 
+            p Este 
+              italic software 
+              | fue creado para la elaboración, desarrollo, diseño audiovisual y composición digital, que permite aplicar movimiento a los recursos gráficos; su uso es principalmente para la posproducción de imágenes en movimiento, animar, alterar y componer creaciones en formatos 2D y 3D. Es una buena opción, si ya se está familiarizado con el entorno de Adobe.  
+          .col-md-6.mb-4.mb-md-0
+            .cajon.color-secundario.p-4.mb-4
+              p Con After Effects se pueden realizar tareas, tales como: 
+              ul.lista-ul--color
+                li 
+                  i.fas.fa-circle
+                  | Animación de figuras y objetos 2D.
+                li 
+                  i.fas.fa-circle
+                  | Animación por trazo de vectores.
+                li 
+                  i.fas.fa-circle
+                  | Crear y animar textos tales como créditos, introducciones y generarles transiciones en movimiento.
+                li 
+                  i.fas.fa-circle
+                  | Efectos especiales integrados a video.
+                li 
+                  i.fas.fa-circle
+                  | Posproducción de video: ajustes de color, efectos de imagen, inclusión de gráficas animadas, efectos de audio, etc.      
 
+          .col-md-5
+            figure
+              img.mb-2(src='@/assets/curso/tema3-2-tabs1.svg', alt='Adobe After Effects ')
+              figcaption Nota. https://bit.ly/2W0SRq3
 
+      .py-3.py-md-4(titulo="Adobe Animate")
+        .row.justify-content-center
+          .col-md-11.mb-4.mb-md-0
+            h4 
+              italic Adobe Animate
+          .col-md-6.mb-4.mb-md-0
+            p Anteriormente conocido como 
+              italic Adobe Flash Professional, Animate 
+              | es una aplicación de creación y manipulación de gráficos vectoriales (2D) gráficos rasterizados, sonido, flujo de vídeo, audio y animaciones en formato HTML5. 
+              italic Animate 
+              | es un estudio de animación que trabaja sobre fotogramas y está destinado a la producción de contenido interactivo para videojuegos, aplicaciones y también para la web. 
+          .col-md-5
+            figure
+              img.mb-2(src='@/assets/curso/tema3-2-tabs2.svg', alt='Adobe Animate')
+              figcaption Nota. https://bit.ly/2W0Gf2a
 
+      .py-3.py-md-4.italic(titulo="Character Animator")
+        .row.justify-content-center
+          .col-md-11.mb-4.mb-md-0
+            h4 
+              italic Character Animator
+          .col-md-6.mb-4.mb-md-0           
+            p Este programa también hace parte de las aplicaciones de escritorio de 
+              italic Adobe Creative Cloud. 
+              | Este 
+              italic software 
+              | combina la captura de movimiento en vivo 
+              italic (MoCap) 
+              | utilizando la cámara 
+              italic web 
+              | y el micrófono, con un sistema de grabación de múltiples pistas para animar automáticamente a un personaje en tiempo real. Como no requiere mucha experiencia en animación, por parte del usuario, esta es una buena opción para principiantes. 
+          .col-md-5
+            figure
+              img.mb-2(src='@/assets/curso/tema3-2-tabs3.svg', alt='Character Animator')
+              figcaption Nota. https://bit.ly/2W0Mbs4  
 
+      .py-3.py-md-4(titulo="3D Max")
+        .row.justify-content-center
+          .col-md-11.mb-4.mb-md-0
+            h4 
+              italic 3D Max 
+          .col-md-6.mb-4.mb-md-0
+            p 
+              italic Software 
+              | de diseño y animación 3D para industrias de manufacturas, construcción, medios y entretenimiento. Posee una variedad de herramientas para procesar escenas y personajes complejos, produce animaciones, renderizado y modelado 3D para la visualización en videojuegos, arquitectura y diseño. 
+          .col-md-5
+            figure
+              img.mb-2(src='@/assets/curso/tema3-2-tabs4.jpg', alt='3D Max')
+              figcaption Nota. https://bit.ly/3CTzsbj
+
+      .py-3.py-md-4(titulo="Autodesk Maya")
+        .row.justify-content-center
+          .col-md-11.mb-4.mb-md-0
+            h4 
+              italic Autodesk Maya 
+          .col-md-6.mb-4.mb-md-0
+            p Con las herramientas integradas permite hacer: animación 3D profesionalmente, modelado, simulación, ambientes, gráficos en movimiento, realidad virtual y creación de personajes para cine, juegos y televisión.
+          .col-md-5
+            figure
+              img.mb-2(src='@/assets/curso/tema3-2-tabs5.jpg', alt='Autodesk Maya')    
+              figcaption Nota. https://bit.ly/3CSu48q    
+
+      .py-3.py-md-4(titulo="Cinema 4D")
+        .row.justify-content-center
+          .col-md-11.mb-4.mb-md-0
+            h4 
+              italic Cinema 4D 
+          .col-md-6.mb-4.mb-md-0
+            p Ofrece la opción de trabajar de forma no destructiva. Es utilizado en el campo de gráficos en movimiento, diseño arquitectónico, visualización de productos, modelado paramétrico, sombreadores de procedimiento, texturas, animación y más. Posee una amplia gama de herramientas y funciones que permiten lograr resultados con calidad visual sorprendente. Gracias a la interfaz organizada de forma lógica, facilita su funcionamiento intuitivo y fácil de entender.  
+          .col-md-5
+            figure
+              img.mb-2(src='@/assets/curso/tema3-2-tabs6.jpg', alt='Cinema 4D')
+              figcaption Nota. https://bit.ly/2VW5mD7
+
+      .py-3.py-md-4(titulo="Blender")
+        .row.justify-content-center
+          .col-md-11.mb-4.mb-md-0
+            h4 
+              italic Blender 
+          .col-md-6.mb-4.mb-md-0
+            p Es un programa 3D gratuito y de código abierto, proporciona una amplia gama de funciones de modelado, texturizado, iluminación, animación, procesamiento de video, renderizado, simulación, composición y seguimiento de movimiento. Permite, además, crear toda una postproducción desde el mismo programa con opciones de edición de vídeo, composición y efectos visuales.  
+          .col-md-5
+            figure
+              img.mb-2(src='@/assets/curso/tema3-2-tabs7.jpg', alt='Blender')
+              figcaption Nota.  https://bit.ly/2VZeOWk
 
 </template>
 
