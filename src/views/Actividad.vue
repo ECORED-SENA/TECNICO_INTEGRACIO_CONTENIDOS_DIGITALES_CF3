@@ -11,8 +11,9 @@
           figure.px-lg-4
             img.px-lg-4.py-lg-5(src="@/assets/curso/actividad-didactica.svg", alt="Complete la frase")
       .col-12.col-md-8.col-lg-9.mb-lg-5(data-aos="fade-left")
-        .col-lg-7
-          p.mb-4.mb-lg-5 De la columna de la derecha arrastre y suelte la continuación correspondiente al inicio de frase en la columna de la izquierda, según la información contenida en el presente componente formativo.
+        .col-lg-9
+          p Apreciado aprendiz a continuación encontrará unos enunciados relacionados con la experiencia de aprendizaje del presente componente de formación.
+          p.mb-4 Con la intención de identificar los conocimientos abordados le sugerimos arrastrar y soltar la respuesta correcta. Adelante.
         .tarjeta.color-primario.p-2
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

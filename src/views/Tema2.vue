@@ -20,7 +20,7 @@
 
     // 2.1
     #t_2_1.titulo-segundo(data-aos="fade-right")
-      .h2 2.1.  Tipos de animación
+      .h2 2.1  Tipos de animación
 
     p(data-aos="fade") Desde la aparición de la animación tradicional, donde su funcionamiento era a base de células transparentes, se han presentado variedad de avances y transformaciones, siendo uno de los más significativos, la llegada del computador, donde hoy en día permiten que los animadores puedan crear escenarios, personajes y diversas secuencias con mayor facilidad, ofreciendo opciones más avanzadas y rápidas para el proceso de creación.  
 
@@ -112,7 +112,7 @@
                 p.mb-0 
                   strong Enlace web. 
                   | Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video:  
-                  strong Animación en Rotoscopia
+                  strong animación en rotoscopia
           .col-md-5
             figure
               img.mb-2(src='@/assets/curso/tema2-1-tabs5.jpg', alt='Rotoscopia')
@@ -159,7 +159,7 @@
 
     // 2.2
     #t_2_2.titulo-segundo(data-aos="fade-right")
-      .h2 2.2.  Principios de la animación
+      .h2 2.2  Principios de la animación
 
     p(data-aos="fade") Los principios de la animación son doce (12) estos fueron desarrollados en los años 30 por los estudios Disney, por la necesidad de crear un lenguaje entendible entre los animadores y técnicos y acuñados por Frank Thomas y Ollie Johnston. Estos principios se basan en aspectos relativos a las leyes de la física y su objetivo inicial es el de dar a los personajes una actitud más realista tanto física como emocionalmente. 
 
@@ -250,7 +250,7 @@
 
       .tarjeta.back1.p-4.px-lg-5.py-lg-5(titulo="11. Solidez")
         h4 11. Solidez
-        p Este principio se puede sintetizar en la premisa: Cuanto mejor dibuje, más fácil resultará animar. Al ser capaz de dibujar al personaje en todas sus posiciones imaginables y puntos de vista, la animación resultará más creíble. Para ello es necesario tener una amplia comprensión y correcta aplicación de los conceptos básicos artísticos de perspectiva, volumen, peso, equilibrio e iluminación, entre otros, en referencia a la experiencia del observador en el mundo real.  
+        p Este principio se puede sintetizar en la premisa: cuanto mejor dibuje, más fácil resultará animar. Al ser capaz de dibujar al personaje en todas sus posiciones imaginables y puntos de vista, la animación resultará más creíble. Para ello es necesario tener una amplia comprensión y correcta aplicación de los conceptos básicos artísticos de perspectiva, volumen, peso, equilibrio e iluminación, entre otros, en referencia a la experiencia del observador en el mundo real.  
         .row.justify-content-center
           .col-lg-9
             figure

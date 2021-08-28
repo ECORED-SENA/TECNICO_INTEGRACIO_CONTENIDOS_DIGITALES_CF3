@@ -139,13 +139,13 @@ export default {
     },
     {
       referencia:
-        'Information & Communication Technology. (s.f.). Animation Adobe Animated CC 2020 Level 1 (English version): Animation. ',
+        '<i>Information & Communication Technology. (s.f.). Animation Adobe Animated CC 2020 Level 1 (English version): Animation. </i>',
       link:
         'https://books.google.com.co/books?id=GFzdDwAAQBAJ&printsec=frontcover&hl=es&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false',
     },
     {
       referencia:
-        'Kerlow, I. (2009). The art of 3D Computer: animation and effects (4th ed.). Wiley.',
+        'Kerlow, I. (2009). <i>The art of 3D Computer: animation and effects (4th ed.).</i> Wiley.',
     },
     {
       referencia:
@@ -172,7 +172,7 @@ export default {
     {
       termino: 'Animatic',
       significado:
-        'Es la versión animada del storyboard. No debe ser tan minuciosa, solo para detallar lo que no se pudo ver en el paso anterior.',
+        'Es la versión animada del <i>storyboard</i>. No debe ser tan minuciosa, solo para detallar lo que no se pudo ver en el paso anterior.',
     },
     {
       termino: 'Animation',
@@ -182,7 +182,7 @@ export default {
     {
       termino: 'Compositing',
       significado:
-        'Dentro de una animación existen diversas capas, el objetivo del compositing es agruparlas todas para convertirlas en una pieza individual donde todas las escenas trabajen en conjunto.',
+        'Dentro de una animación existen diversas capas, el objetivo del <i>compositing</i> es agruparlas todas para convertirlas en una pieza individual donde todas las escenas trabajen en conjunto.',
     },
     {
       termino: 'Concept art',
@@ -195,17 +195,17 @@ export default {
     {
       termino: 'Keyframes/Keys',
       significado:
-        'Son las posiciones más importantes dentro de una escena. Dentro de un software son los puntos que estableces en el timeline para posicionar cambios de posición, escala, etc.',
+        'Son las posiciones más importantes dentro de una escena. Dentro de un <i>software</i> son los puntos que estableces en el <i>timeline</i> para posicionar cambios de posición, escala, etc.',
     },
     {
       termino: 'Layout',
       significado:
-        'Etapa en la cual se determina la posición de los personajes, se planifica la puesta en escena y los tiempos así como el ángulo y la posición de la cámara, de dónde proviene la luz y cómo se proyectan las sombras.',
+        'Etapa en la cual se determina la posición de los personajes, se planifica la puesta en escena y los tiempos, así como el ángulo y la posición de la cámara, de dónde proviene la luz y cómo se proyectan las sombras.',
     },
     {
       termino: 'Pixilación',
       significado:
-        'Es una variante del stop motion, con la salvedad de que lo que se usan son personas.',
+        'Es una variante del <i>stop motion</i>, con la salvedad de que lo que se usan son personas.',
     },
     {
       termino: 'Postproducción',
@@ -215,7 +215,7 @@ export default {
     {
       termino: 'Preproducción',
       significado:
-        'Etapa anterior a la producción en la cual se prepara el material: diseño, color script, animatic, storyboard.',
+        'Etapa anterior a la producción en la cual se prepara el material: diseño, color <i>script, animatic, storyboard.</i>',
     },
     {
       termino: 'Producción',
@@ -263,7 +263,7 @@ export default {
     },
     {
       texto:
-        'Kerlow, I. (2009). The art of 3D Computer: animation and effects (4th ed.). Wiley.',
+        'Kerlow, I. (2009). <i>The art of 3D Computer: animation and effects</i> (4th ed.). Wiley.',
       tipo: 'Capítulo de libro',
       link:
         'https://books.google.com.co/books?id=7V87CwAAQBAJ&pg=PA305&dq=twelve+principles+of+animation&hl=es-419&sa=X&ved=2ahUKEwiMmPvy5IntAhVwdt8KHaR8DNQQ6AEwAXoECAEQAg#v=onepage&q=twelve%20principles%20of%20animation&f=false',
@@ -291,13 +291,13 @@ export default {
     },
     {
       texto:
-        'Autodesk. (s.f.). Conecta todo el ciclo de vida del proyecto con el software de Autodesk.',
+        'Autodesk. (s.f.). Conecta todo el ciclo de vida del proyecto con el <i>software</i> de Autodesk.',
       tipo: 'Página web',
       link: 'https://bit.ly/3sNKnwU',
     },
     {
       texto:
-        'Information & Communication Techonology. (s.f.). Animation Adobe Animated CC 2020 Level 1 (English version): Animation .',
+        '<i>Information & Communication Techonology. (s.f.). Animation Adobe Animated</i> CC 2020 <i>Level 1 (English version): Animation.</i>',
       tipo: 'Libro',
       link: 'https://bit.ly/3gwFI05',
     },
@@ -371,25 +371,61 @@ export default {
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Camilo Andrés Villamizar Lizcano',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
-        nombre: 'Andres Mauricio Santaella Ochoa	',
-        cargo: 'Soporte front-End',
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+      {
+        nombre: 'Lina Marcela Pérez Manchego',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+      {
+        nombre: 'Nelson Iván Vera Briceño',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+      {
+        nombre: 'Oleg Litvin',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios <br>Regional Tolima',
       },
       {
         nombre: 'Andrea Paola Botello De la Rosa',
-        cargo: 'Desarrollo front-End',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
-        nombre: ' ',
+        nombre: 'Andres Mauricio Santaella Ochoa	',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+
+      {
+        nombre: 'Jhana Johanna Bustillo Ardila',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',

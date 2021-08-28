@@ -51,10 +51,11 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0.text-white
-                  h4.mb-1 Theory of creativity-Duncan Wardle / The art of innovation
-                  p.text-small Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
+                  h4.mb-1 Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video
+                  p.mb-0.text-small “Theory of creativity-Duncan Wardle”
+                  p.text-small “The art of innovation”
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="('https://youtu.be/Mtjatz9r-Vc')" target="_blank")
                     span Enlace
                     i.fas.fa-link
 

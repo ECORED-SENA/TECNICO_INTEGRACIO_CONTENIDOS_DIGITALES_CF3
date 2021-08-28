@@ -31,14 +31,14 @@
                   h4.mb-1 Un siglo de animación
                   p.text-small Estimado aprendiz, para profundizar sobre el tema puede consultar el siguiente video.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="('https://youtu.be/kj0ZfXEN96w')" target="_blank")
                     span Enlace
                     i.fas.fa-link
 
 
     h2.mb-4(data-aos="fade-right") Cronología de la animación
 
-    p.mb-4(data-aos="fade") Para conocer un poco la forma en que ha venido avanzando la animación es posible revisar la siguiente línea de tiempo:
+    p.mb-4(data-aos="fade") Para conocer un poco la forma en que ha venido avanzando la animación, es posible revisar la siguiente línea de tiempo:
 
     .row.back-verde.py-5
       LineaTiempoC.color-primario(text-small)
@@ -72,7 +72,7 @@
         .row.justify-content-center(titulo="1829")
           .col-md-4.mb-4.mb-md-0
             h5 Estroboscopio, Austria 1829
-            p Es un disco giratorio que permite visualizar distintas fases del movimiento de un objeto o imagen en secuencia, cancelando la vista o iluminación en el momento preciso de transición por lo que da la ilusión de un movimiento fluido. Inventado por 
+            p Es un disco giratorio que permite visualizar distintas fases del movimiento de un objeto o imagen en secuencia, cancelando la vista o iluminación en el momento preciso de transición, por lo que da la ilusión de un movimiento fluido. Inventado por 
               strong Simon von Stampfer.
           .col-md-1
           .col-md-5
