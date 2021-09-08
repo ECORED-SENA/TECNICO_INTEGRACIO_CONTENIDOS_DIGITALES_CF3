@@ -21,7 +21,7 @@
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10    
-        .tarjeta.color-primario.p-3.px-lg-5
+        .tarjeta.color-degrade.p-3.px-lg-5
           .row.justify-content-around.align-items-center
             .col-4.col-sm-3.col-lg-2.px-lg-4
               img(src="@/assets/curso/tema1-cta.svg")
@@ -50,7 +50,7 @@
           .col-md-5
             figure
               img.mb-2(src='@/assets/curso/tema1-linea1.jpg', alt='36000-13000 a.d.C.')
-              figcaption Nota. https://acortar.link/wP1K7D
+              figcaption.back-primario Nota. https://acortar.link/wP1K7D
         .row.justify-content-center(titulo="2000 a.d.C ")
           .col-md-4.mb-4.mb-md-0
             h5 Egipto, (2000 a.d.C)
@@ -59,7 +59,7 @@
           .col-md-5
             figure
               img.mb-2(src='@/assets/curso/tema1-linea2.jpg', alt='Egipto, (2000 a.d.C)')
-              figcaption Nota. https://acortar.link/oSnM5f  
+              figcaption.back-primario Nota. https://acortar.link/oSnM5f  
         .row.justify-content-center(titulo="1824")
           .col-md-4.mb-4.mb-md-0
             h5 Taumatropo, París 1824
@@ -68,7 +68,7 @@
           .col-md-5
             figure
               img.mb-2(src='@/assets/curso/tema1-linea3.jpg', alt='Taumatropo, París 1824')
-              figcaption Nota. https://challengeacepted.files.wordpress.com/2011/03/taumatropo.jpg          
+              figcaption.back-primario Nota. https://challengeacepted.files.wordpress.com/2011/03/taumatropo.jpg          
         .row.justify-content-center(titulo="1829")
           .col-md-4.mb-4.mb-md-0
             h5 Estroboscopio, Austria 1829
@@ -78,7 +78,7 @@
           .col-md-5
             figure
               img.mb-2(src='@/assets/curso/tema1-linea4.jpg', alt='Estroboscopio, Austria 1829')
-              figcaption Nota. https://proyectoidis.org/el-fenaquitiscopio-de-plateau/ 
+              figcaption.back-primario Nota. https://proyectoidis.org/el-fenaquitiscopio-de-plateau/ 
         .row.justify-content-center(titulo="1834")
           .col-md-4.mb-4.mb-md-0
             h5 Zootropo, 1834
@@ -99,7 +99,7 @@
           .col-md-5
             figure
               img.mb-2(src='@/assets/curso/tema1-linea6.jpg', alt='Praxinoscopio, 1877')
-              figcaption Nota. https://acortar.link/WgG76o
+              figcaption.back-primario Nota. https://acortar.link/WgG76o
         .row.justify-content-center(titulo="1906")
           .col-md-4.mb-4.mb-md-0
             h5 Fases humorísticas de caras divertidas, 1906  
@@ -110,7 +110,7 @@
           .col-md-5
             figure
               img.mb-2(src='@/assets/curso/tema1-linea7.jpg', alt='Fases humorísticas de caras divertidas, 1906 ')
-              figcaption Nota. https://acortar.link/RhExZU
+              figcaption.back-primario Nota. https://acortar.link/RhExZU
         .row.justify-content-center(titulo="Años 20's ")
           .col-md-4.mb-4.mb-md-0
             h5 Felix el Gato y Gertie el dinosaurio, Años 20's  
@@ -119,7 +119,7 @@
           .col-md-5
             figure
               img.mb-2(src='@/assets/curso/tema1-linea8.jpg', alt='Felix el Gato y Gertie el dinosaurio, Años 20´s ')
-              figcaption Nota. https://gatopedia.fandom.com/es/wiki/El_gato_Félix?file=Gato_Felix.jpg  
+              figcaption.back-primario Nota. https://gatopedia.fandom.com/es/wiki/El_gato_Félix?file=Gato_Felix.jpg  
         .row.justify-content-center(titulo="1928")
           .col-md-4.mb-4.mb-md-0
             h5 Steamboat Willie, 1928 
@@ -134,7 +134,7 @@
           .col-md-5
             figure
               img.mb-2(src='@/assets/curso/tema1-linea9.jpg', alt='Steamboat Willie, 1928')
-              figcaption Nota. https://acortar.link/OdpLv4 
+              figcaption.back-primario Nota. https://acortar.link/OdpLv4 
         .row.justify-content-center(titulo="1930-1969")
           .col-md-4.mb-4.mb-md-0
             h5 Cortometrajes Merrie Melodies, 1930-1969 
@@ -146,7 +146,7 @@
           .col-md-5
             figure
               img.mb-2(src='@/assets/curso/tema1-linea10.jpg', alt='Cortometrajes Merrie Melodies, 1930-1969')
-              figcaption Nota. https://looneytunes.fandom.com/es/wiki/Merrie_Melodies 
+              figcaption.back-primario Nota. https://looneytunes.fandom.com/es/wiki/Merrie_Melodies 
         .row.justify-content-center(titulo="1939")
           .col-md-4.mb-4.mb-md-0
             h5 Primer largometraje animado, Blanca Nieves y los 7 enanitos, 1939 
@@ -157,7 +157,7 @@
           .col-md-5
             figure
               img.mb-2(src='@/assets/curso/tema1-linea11.jpg', alt='Primer largometraje animado, Blanca Nieves y los 7 enanitos, 1939')
-              figcaption Nota. https://acortar.link/tnSWN0 
+              figcaption.back-primario Nota. https://acortar.link/tnSWN0 
         .row.justify-content-center(titulo="1988")
           .col-md-4.mb-4.mb-md-0
             h5 Quién engañó a Roger Rabbit, 1988 
@@ -166,7 +166,7 @@
           .col-md-5
             figure
               img.mb-2(src='@/assets/curso/tema1-linea12.jpg', alt='Quién engañó a Roger Rabbit, 1988')
-              figcaption Nota. https://acortar.link/lsjyGi
+              figcaption.back-primario Nota. https://acortar.link/lsjyGi
         .row.justify-content-center(titulo="1995")
           .col-md-4.mb-4.mb-md-0
             h5 Animación por computador, 1995
@@ -179,7 +179,7 @@
           .col-md-5
             figure
               img.mb-2(src='@/assets/curso/tema1-linea13.jpg', alt='Animación por computador, 1995')
-              figcaption Nota. https://acortar.link/UEW9ML  
+              figcaption.back-primario Nota. https://acortar.link/UEW9ML  
         .row.justify-content-center(titulo="Actualidad")
           .col-md-4.mb-4.mb-md-0
             h5 Animación digital realista, Actualidad 
@@ -190,7 +190,7 @@
           .col-md-5
             figure
               img.mb-2(src='@/assets/curso/tema1-linea14.jpg', alt='Animación digital realista, Actualidad')
-              figcaption Nota. https://acortar.link/mii8Yq                                              
+              figcaption.back-primario Nota. https://acortar.link/mii8Yq                                              
 
 
 

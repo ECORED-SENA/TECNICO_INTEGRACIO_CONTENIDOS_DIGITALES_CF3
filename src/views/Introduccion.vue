@@ -10,11 +10,11 @@
       h1 Introducción
     
     .row.align-items-center.mb-5
-      .col-lg-6.tarjeta.color-secundario.p-5.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-lg-5.tarjeta.color-secundario.p-5.mb-4.mb-lg-0(data-aos="fade-right")
         p.parrafo-intro.mb-0 En el presente componente tendrá la posibilidad de abordar los fundamentos de la 
           strong animación 
           | y elementos determinantes para comprender las técnicas para su aplicación. A continuación, le invitamos a visualizar el video de introducción:
-      .col-lg-6.img-intro(data-aos="fade-left")
+      .col-lg-7.img-intro(data-aos="fade-left")
         figure
           img(src='@/assets/curso/intro.svg', alt='Introducción')
 

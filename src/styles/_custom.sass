@@ -1,30 +1,41 @@
+.titulo-principal__numero span
+  color: $color-sistema-texto
 italic
   font-style: oblique
+italic-strong
+  font-style: oblique
+  font-weight: bold
 figcaption
   font-weight: 500
 .etiqueta 
   padding: 2px 0px 5px
 
 .parrafo-intro
-  padding-right: 3rem!important
+  padding-right: 4rem!important
 span.etiqueta
   font-weight: 600
 
+.back-primario
+  background-color: #BAEDFC 
 .back-verde
-  background-color: #F6FFE6  
+  background-color: #F0FCFF  
 .back1
   background-color: #ffecb8  
  
 
 .linea-tiempo-c__header__item__line-container:after, .linea-tiempo-c__header__item__line-container:before
-  background-color: #004046
+  background-color: #FDCF57
 .linea-tiempo-c__header__item__dot
-  border: 3px solid #004046
+  border: 3px solid #FDCF57
 .linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
-  border: 2px solid #004046
+  border: 2px solid #064A93
+.linea-tiempo-c img 
+  border: 3px solid #064A93
 
 .tabs-c__tab--active span
   font-weight: 600
+.tabs-c__tab
+  border-bottom: 4px solid #BAEDFC  
 
 .cajon.color-secundario
   background-color: #F6FFE6 
@@ -35,16 +46,19 @@ span.etiqueta
 
 
 .tabs-a__tab
-  background-color: #F6FFE6 
+  background-color: #F0FCFF 
 
+.color-degrade
+  background: rgb(5,52,103)
+  background: linear-gradient(4deg, rgba(5,52,103,1) 0%, rgba(6,74,147,1) 100%)
 
 /* MOBILE */
 @media (min-width: $bp-min-lg)  
   .img-intro img
     position: absolute
-    left: 45%
-    width: 575px
-    top: 21%
+    left: 35%
+    width: 808px
+    top: 15.7%
 
 @media (min-width: 1400px)
   .col-xxl-5
