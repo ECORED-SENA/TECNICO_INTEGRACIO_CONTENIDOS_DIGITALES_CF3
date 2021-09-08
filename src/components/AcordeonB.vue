@@ -72,6 +72,6 @@ export default {
 
 <style lang="sass">
 .acordeon__selected
-  background-color: #F6FFE6
+  background-color: #F0FCFF
   border-radius: 20px
 </style>

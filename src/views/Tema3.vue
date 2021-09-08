@@ -68,7 +68,7 @@
 
       .row.px-lg-5(titulo="PNG")
         .col-lg-2.px-lg-4
-          img.px-lg-3(src="@/assets/curso/tema3-acordeon8.svg", alt="PNG") 
+          img.px-lg-3(src="@/assets/curso/tema3-acordeon4.svg", alt="PNG") 
         .col-lg-10
           p Los gráficos portátiles de red o 
             italic Portable Network Graphics, 
@@ -76,7 +76,7 @@
 
       .row.px-lg-5(titulo="TIFF")
         .col-lg-2.px-lg-4
-          img.px-lg-3(src="@/assets/curso/tema3-acordeon4.svg", alt="TIFF") 
+          img.px-lg-3(src="@/assets/curso/tema3-acordeon5.svg", alt="TIFF") 
         .col-lg-10
           p Es la sigla en inglés de 
             italic Tagged Image Format 
@@ -84,7 +84,7 @@
 
       .row.px-lg-5(titulo="PSD")
         .col-lg-2.px-lg-4
-          img.px-lg-3(src="@/assets/curso/tema3-acordeon5.svg", alt="PSD") 
+          img.px-lg-3(src="@/assets/curso/tema3-acordeon6.svg", alt="PSD") 
         .col-lg-10
           p Los archivos de imagen 
             italic Photoshop Document 
@@ -102,7 +102,7 @@
 
       .row.px-lg-5(titulo="RAW")
         .col-lg-2.px-lg-4
-          img.px-lg-3(src="@/assets/curso/tema3-acordeon6.svg", alt="RAW") 
+          img.px-lg-3(src="@/assets/curso/tema3-acordeon7.svg", alt="RAW") 
         .col-lg-10
           p Como su nombre lo indica, este formato de imagen contiene la información en bruto o “cruda”, lo que quiere decir que conserva la totalidad de los datos de la imagen tal cual ha sido captada por el sensor digital de la cámara, sea fotográfica o de otro tipo.  Igualmente posee, a través de 
             italic software 
@@ -112,7 +112,7 @@
 
       .row.px-lg-5(titulo="PDF")
         .col-lg-2.px-lg-4
-          img.px-lg-3(src="@/assets/curso/tema3-acordeon7.svg", alt="PDF") 
+          img.px-lg-3(src="@/assets/curso/tema3-acordeon8.svg", alt="PDF") 
         .col-lg-10
           p Como su nombre lo indica, el Formato de Documento Portátil 
             italic (Portable Document Format) 
@@ -140,7 +140,7 @@
               italic software 
               | fue creado para la elaboración, desarrollo, diseño audiovisual y composición digital, que permite aplicar movimiento a los recursos gráficos; su uso es principalmente para la posproducción de imágenes en movimiento, animar, alterar y componer creaciones en formatos 2D y 3D. Es una buena opción, si ya se está familiarizado con el entorno de Adobe.  
           .col-md-6.mb-4.mb-md-0
-            .cajon.color-secundario.p-4.mb-4
+            .cajon.color-acento-botones.p-4.mb-4
               p Con After Effects se pueden realizar tareas, tales como: 
               ul.lista-ul--color
                 li 
@@ -161,8 +161,8 @@
 
           .col-md-5
             figure
-              img.mb-2(src='@/assets/curso/tema3-2-tabs1.svg', alt='Adobe After Effects ')
-              figcaption Nota. https://bit.ly/2W0SRq3
+              img.mb-2(src='@/assets/curso/tema3-2-tabs1.svg', alt='Adobe After Effects')
+              figcaption.back-primario Nota. https://bit.ly/2W0SRq3
 
       .py-3.py-md-4(titulo="Adobe Animate")
         .row.justify-content-center
@@ -177,7 +177,7 @@
           .col-md-5
             figure
               img.mb-2(src='@/assets/curso/tema3-2-tabs2.svg', alt='Adobe Animate')
-              figcaption Nota. https://bit.ly/2W0Gf2a
+              figcaption.back-primario Nota. https://bit.ly/2W0Gf2a
 
       .py-3.py-md-4.italic(titulo="Character Animator")
         .row.justify-content-center
@@ -196,7 +196,7 @@
           .col-md-5
             figure
               img.mb-2(src='@/assets/curso/tema3-2-tabs3.svg', alt='Character Animator')
-              figcaption Nota. https://bit.ly/2W0Mbs4  
+              figcaption.back-primario Nota. https://bit.ly/2W0Mbs4  
 
       .py-3.py-md-4(titulo="3D Max")
         .row.justify-content-center
@@ -208,8 +208,8 @@
               | de diseño y animación 3D para industrias de manufacturas, construcción, medios y entretenimiento. Posee una variedad de herramientas para procesar escenas y personajes complejos, produce animaciones, renderizado y modelado 3D para la visualización en videojuegos, arquitectura y diseño. 
           .col-md-5
             figure
-              img.mb-2(src='@/assets/curso/tema3-2-tabs4.jpg', alt='3D Max')
-              figcaption Nota. https://bit.ly/3CTzsbj
+              img.mb-2(src='@/assets/curso/tema3-2-tabs4.svg', alt='3D Max')
+              figcaption.back-primario Nota. https://bit.ly/3CTzsbj
 
       .py-3.py-md-4(titulo="Autodesk Maya")
         .row.justify-content-center
@@ -219,8 +219,8 @@
             p Con las herramientas integradas permite hacer: animación 3D profesionalmente, modelado, simulación, ambientes, gráficos en movimiento, realidad virtual y creación de personajes para cine, juegos y televisión.
           .col-md-5
             figure
-              img.mb-2(src='@/assets/curso/tema3-2-tabs5.jpg', alt='Autodesk Maya')    
-              figcaption Nota. https://bit.ly/3CSu48q    
+              img.mb-2(src='@/assets/curso/tema3-2-tabs5.svg', alt='Autodesk Maya')    
+              figcaption.back-primario Nota. https://bit.ly/3CSu48q    
 
       .py-3.py-md-4(titulo="Cinema 4D")
         .row.justify-content-center
@@ -230,8 +230,8 @@
             p Ofrece la opción de trabajar de forma no destructiva. Es utilizado en el campo de gráficos en movimiento, diseño arquitectónico, visualización de productos, modelado paramétrico, sombreadores de procedimiento, texturas, animación y más. Posee una amplia gama de herramientas y funciones que permiten lograr resultados con calidad visual sorprendente. Gracias a la interfaz organizada de forma lógica, facilita su funcionamiento intuitivo y fácil de entender.  
           .col-md-5
             figure
-              img.mb-2(src='@/assets/curso/tema3-2-tabs6.jpg', alt='Cinema 4D')
-              figcaption Nota. https://bit.ly/2VW5mD7
+              img.mb-2(src='@/assets/curso/tema3-2-tabs6.svg', alt='Cinema 4D')
+              figcaption.back-primario Nota. https://bit.ly/2VW5mD7
 
       .py-3.py-md-4(titulo="Blender")
         .row.justify-content-center
@@ -241,8 +241,8 @@
             p Es un programa 3D gratuito y de código abierto, proporciona una amplia gama de funciones de modelado, texturizado, iluminación, animación, procesamiento de video, renderizado, simulación, composición y seguimiento de movimiento. Permite, además, crear toda una postproducción desde el mismo programa con opciones de edición de vídeo, composición y efectos visuales.  
           .col-md-5
             figure
-              img.mb-2(src='@/assets/curso/tema3-2-tabs7.jpg', alt='Blender')
-              figcaption Nota.  https://bit.ly/2VZeOWk
+              img.mb-2(src='@/assets/curso/tema3-2-tabs7.svg', alt='Blender')
+              figcaption.back-primario Nota.  https://bit.ly/2VZeOWk
 
 </template>
 

@@ -14,7 +14,7 @@
         .col-lg-9
           p Apreciado aprendiz a continuación encontrará unos enunciados relacionados con la experiencia de aprendizaje del presente componente de formación.
           p.mb-4 Con la intención de identificar los conocimientos abordados le sugerimos arrastrar y soltar la respuesta correcta. Adelante.
-        .tarjeta.color-primario.p-2
+        .tarjeta.color-degrade.p-2
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
               p.text-white.fw-bold.mb-0.px-lg-2 Arrastrar y soltar completando la frase

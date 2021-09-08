@@ -18,6 +18,7 @@
         .contenedor-imagenes
           .imagen_flotante.imagen_flotante_1: img(src="@/assets/curso/flotantes1.svg")
           .imagen_flotante.imagen_flotante_2: img(src="@/assets/curso/flotantes2.svg")
+          .imagen_flotante.imagen_flotante_3: img(src="@/assets/curso/flotantes3.svg")
           img(:src="globalData.imagenBannerPrincipal")
 </template>
 
@@ -99,15 +100,20 @@ export default {
 .imagen_flotante
   &_1
     animation: float 6s ease-in-out infinite
-    position: absolute
-    top: 45px;
-    left: 0px;
-    width: 99%;
-
-  &_2
-    animation: float2 6s ease-in-out infinite
     top: 45px
     left: 0px
+    width: 99%
+    position: absolute
+  &_2
+    animation: float2 5s ease-in-out infinite
+    top: 143px
+    left: 250px
+    position: absolute
+  &_3
+    animation: float2 30s ease-in-out infinite
+    top: 17px
+    left: 0px
+    width: 93%
     position: absolute
 
 @keyframes float
@@ -118,14 +124,14 @@ export default {
 		transform: translatey(-20px)
 
 	100%
-		transform: translatey(s0px)
+		transform: translatey(0px)
 @keyframes float2
 	0%
-		transform: translatey(-20px)
+		transform: translatex(0px)
 
 	50%
-		transform: translatey(0px)
+		transform: translatex(50px)
 
 	100%
-		transform: translatey(-20px)
+		transform: translatex(0px)
 </style>
