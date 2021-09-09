@@ -173,7 +173,7 @@
             p También llamado “Deformación”, es un principio que busca lograr extremos más expresivos y con más fuerza dramática.  Este sirve para reforzar la acción y tornarla más creíble y contundente. También resulta un factor esencial para crear una sensación de peso, tanto en la animación de cuerpos, como de objetos.
           .col-md-6
             figure
-              img.mb-2(src='@/assets/curso/estirar_y_encoger.gif', alt='1. Estirar y encoger')
+              img.mb-2(src='@/assets/curso/estirar_encoger.gif', alt='1. Estirar y encoger')
 
       .tarjeta.color-secundario.p-4.px-lg-5.py-lg-5(titulo="2. Anticipación")
         .row
