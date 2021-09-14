@@ -11,7 +11,9 @@
     figure.mb-5(data-aos="fade")
       img(src="@/assets/curso/tema1-banner.png", alt="Historia de la animación") 
 
-    p.mb-5(data-aos="fade") Todo parte de una idea que quiere ser mostrada. El contenido, la forma, el tipo y la duración de la animación final dependen del público al que está dirigida. El proceso incluye desde la realización de un story board, hasta la elaboración de la animación final, pasando por la creación de personajes, el guion técnico y literario, entre otros. Por lo anterior, lo invitamos a profundizar y conocer la historia de la animación que le brinda elementos determinantes, para comprender lo que es hoy día la animación:
+    p.mb-5(data-aos="fade") Todo parte de una idea que quiere ser mostrada. El contenido, la forma, el tipo y la duración de la animación final dependen del público al que está dirigida. El proceso incluye desde la realización de un 
+      italic storyboard, 
+      | hasta la elaboración de la animación final, pasando por la creación de personajes, el guion técnico y literario, entre otros. Por lo anterior, lo invitamos a profundizar y conocer la historia de la animación que le brinda elementos determinantes, para comprender lo que es hoy día la animación:
 
     .row.justify-content-center.mb-4(data-aos="fade-down")
       .col-lg-10
